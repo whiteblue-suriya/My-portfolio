@@ -34,8 +34,6 @@ Personal portfolio showcasing web development skills including HTML, CSS, JavaSc
 ## 📬 Contact
 
 - **Email:** suriyaramesh009@gmail.com
-- **Phone:** +91 9952628612
-- **Location:** Thatrahalli, Krishnagiri
 - **LinkedIn:** [suriyakumar-r-aba174274](https://www.linkedin.com/in/suriyakumar-r-aba174274/)
 - **GitHub:** [whiteblue-suriya](https://github.com/whiteblue-suriya)
 
